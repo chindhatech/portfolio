@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 660" role="img" aria-label="Decorative illustration of Siddha herbal healthcare and laboratory care">
+  <defs>
+    <linearGradient id="ciBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F8FCFB"/>
+      <stop offset="0.5" stop-color="#EAF9F4"/>
+      <stop offset="1" stop-color="#D6F1E7"/>
+    </linearGradient>
+    <linearGradient id="ciRing" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16A085"/>
+      <stop offset="1" stop-color="#087F8C"/>
+    </linearGradient>
+    <linearGradient id="ciLeaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16A085" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#087F8C" stop-opacity="0.28"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="660" rx="28" fill="url(#ciBg)"/>
+  <g fill="#087F8C" fill-opacity="0.12">
+    <circle cx="72" cy="72" r="3"/><circle cx="100" cy="72" r="3"/><circle cx="128" cy="72" r="3"/>
+    <circle cx="72" cy="100" r="3"/><circle cx="100" cy="100" r="3"/><circle cx="128" cy="100" r="3"/>
+    <circle cx="72" cy="128" r="3"/><circle cx="100" cy="128" r="3"/><circle cx="128" cy="128" r="3"/>
+  </g>
+  <circle cx="300" cy="300" r="196" fill="#ffffff" fill-opacity="0.55"/>
+  <circle cx="300" cy="300" r="196" fill="none" stroke="url(#ciRing)" stroke-opacity="0.32" stroke-width="2"/>
+  <circle cx="300" cy="300" r="160" fill="none" stroke="#087F8C" stroke-opacity="0.18" stroke-width="1.5" stroke-dasharray="3 12"/>
+  <g stroke="url(#ciRing)" stroke-width="3.4" stroke-linecap="round" fill="none">
+    <path d="M300 232v136M232 300h136"/>
+  </g>
+  <g fill="url(#ciLeaf)">
+    <path d="M300 300c-6-52 26-84 74-90-2 54-30 86-74 90z"/>
+    <path d="M300 300c6 46-20 76-62 84 0-48 24-78 62-84z" fill="#087F8C" fill-opacity="0.22"/>
+  </g>
+  <path d="M300 300c-14-32-34-54-62-66" stroke="#087F8C" stroke-opacity="0.45" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+  <path d="M300 300c16 26 34 44 58 52" stroke="#087F8C" stroke-opacity="0.35" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+  <g fill="none" stroke="#087F8C" stroke-opacity="0.35" stroke-width="2.4" stroke-linecap="round">
+    <path d="M96 470c0-64 40-104 96-118"/>
+    <path d="M126 424c-2-30 14-54 44-64 4 34-12 58-44 64z" fill="#16A085" fill-opacity="0.3" stroke="none"/>
+    <path d="M150 470c-2-30 14-54 44-64 4 34-12 58-44 64z" fill="#087F8C" fill-opacity="0.22" stroke="none"/>
+    <path d="M504 470c0-64-40-104-96-118"/>
+    <path d="M474 424c2-30-14-54-44-64-4 34 12 58 44 64z" fill="#16A085" fill-opacity="0.3" stroke="none"/>
+    <path d="M450 470c2-30-14-54-44-64-4 34 12 58 44 64z" fill="#087F8C" fill-opacity="0.22" stroke="none"/>
+  </g>
+  <rect x="120" y="536" width="360" height="76" rx="38" fill="#ffffff" fill-opacity="0.9"/>
+  <rect x="120" y="536" width="360" height="76" rx="38" fill="none" stroke="#087F8C" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path d="M152 574h46l14-26 20 52 16-34 12 18h172" fill="none" stroke="#16A085" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="466" cy="174" r="46" fill="#ffffff"/>
+  <circle cx="466" cy="174" r="46" fill="none" stroke="#087F8C" stroke-opacity="0.18" stroke-width="1.5"/>
+  <g stroke="#087F8C" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M452 158h12l14 30h-14"/>
+    <path d="M480 158h-12"/>
+    <path d="M462 172h22"/>
+  </g>
+</svg>

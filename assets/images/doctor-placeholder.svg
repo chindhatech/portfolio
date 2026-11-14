@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 560" role="img" aria-label="Placeholder frame for the photograph of Dr. G. Jayasri Kavya">
+  <defs>
+    <linearGradient id="dpBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EFFBF7"/>
+      <stop offset="0.55" stop-color="#DDF5ED"/>
+      <stop offset="1" stop-color="#C9EEE1"/>
+    </linearGradient>
+    <linearGradient id="dpFigure" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#16A085" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#087F8C" stop-opacity="0.7"/>
+    </linearGradient>
+    <radialGradient id="dpGlow" cx="0.5" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="480" height="560" fill="url(#dpBg)"/>
+  <circle cx="240" cy="210" r="200" fill="url(#dpGlow)"/>
+  <g stroke="#087F8C" stroke-opacity="0.14" fill="none" stroke-width="1.5">
+    <circle cx="240" cy="248" r="150"/>
+    <circle cx="240" cy="248" r="118" stroke-dasharray="4 10"/>
+  </g>
+  <g fill="#087F8C" fill-opacity="0.16">
+    <circle cx="86" cy="92" r="3"/><circle cx="112" cy="92" r="3"/><circle cx="138" cy="92" r="3"/>
+    <circle cx="86" cy="118" r="3"/><circle cx="112" cy="118" r="3"/><circle cx="138" cy="118" r="3"/>
+    <circle cx="86" cy="144" r="3"/><circle cx="112" cy="144" r="3"/><circle cx="138" cy="144" r="3"/>
+  </g>
+  <g fill="#16A085" fill-opacity="0.18">
+    <path d="M402 386c26 5 30 24 30 44-25 2-41-12-38-36 .3-4 3.6-8.7 8-8z"/>
+    <path d="M64 330c-24 5-28 22-28 41 23 2 38-11 35-34-.3-3.7-3.4-7.4-7-7z"/>
+  </g>
+  <circle cx="240" cy="232" r="86" fill="#ffffff" fill-opacity="0.85"/>
+  <circle cx="240" cy="232" r="86" fill="none" stroke="#087F8C" stroke-opacity="0.25" stroke-width="2"/>
+  <g fill="url(#dpFigure)">
+    <circle cx="240" cy="212" r="34"/>
+    <path d="M176 318c0-35 29-58 64-58s64 23 64 58v12H176z"/>
+  </g>
+  <g transform="translate(292 268)">
+    <circle cx="0" cy="0" r="26" fill="#ffffff"/>
+    <circle cx="0" cy="0" r="26" fill="none" stroke="#087F8C" stroke-opacity="0.18" stroke-width="2"/>
+    <g stroke="#087F8C" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-11 3.5h22a2.5 2.5 0 0 0 2.5-2.5v-8a2.5 2.5 0 0 0-2.5-2.5h-3.6l-1.8-2.6h-9.2l-1.8 2.6H-11A2.5 2.5 0 0 0-13.5-7v8A2.5 2.5 0 0 0-11 3.5z"/>
+      <circle cx="0" cy="-3.5" r="4.2"/>
+    </g>
+  </g>
+  <text x="240" y="404" text-anchor="middle" font-family="'Plus Jakarta Sans', 'Segoe UI', sans-serif" font-size="21" font-weight="700" fill="#142C3E">Doctor photograph</text>
+  <text x="240" y="436" text-anchor="middle" font-family="'Plus Jakarta Sans', 'Segoe UI', sans-serif" font-size="15" fill="#64748B">Replace with an authentic</text>
+  <text x="240" y="458" text-anchor="middle" font-family="'Plus Jakarta Sans', 'Segoe UI', sans-serif" font-size="15" fill="#64748B">photo of Dr. G. Jayasri Kavya</text>
+  <rect x="0" y="500" width="480" height="1" fill="#087F8C" fill-opacity="0.12"/>
+  <text x="240" y="530" text-anchor="middle" font-family="'Plus Jakarta Sans', 'Segoe UI', sans-serif" font-size="13" font-weight="600" letter-spacing="2.6" fill="#087F8C" fill-opacity="0.75">CHINDHAMANI HEALTHCARE</text>
+</svg>
