@@ -19,8 +19,8 @@ The site uses Google Fonts when an internet connection is available. The local S
 - `index.html` — page content, metadata, and structured data
 - `css/style.css` — responsive layout and visual design
 - `js/script.js` — navigation, scroll effects, WhatsApp links, form validation, and dynamic copyright year
-- `assets/images/` — clinic illustration and supplied photograph of Dr. G. Jayasri Kavya
-- `assets/icons/` — clinic logo and favicon
+- `assets/images/` — supplied clinic wordmark and photograph of Dr. G. Jayasri Kavya
+- `assets/icons/` — supplied clinic emblem used in the header and as the browser icon
 
 The contact form is frontend-only. It validates the entered details and opens WhatsApp with a prefilled enquiry; it does not store or transmit form data automatically.
 

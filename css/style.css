@@ -498,15 +498,18 @@ address {
 }
 
 .brand__mark {
-  width: 46px;
-  height: 46px;
-  border-radius: 14px;
-  box-shadow: 0 12px 22px -14px rgba(4, 74, 85, 0.9);
+  width: 64px;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  border-radius: 6px;
+  object-fit: contain;
+  background: #ffffff;
+  box-shadow: none;
   transition: transform 0.4s var(--ease);
 }
 
 .brand:hover .brand__mark {
-  transform: rotate(-6deg) scale(1.04);
+  transform: scale(1.03);
 }
 
 .brand__name {
@@ -1071,15 +1074,15 @@ address {
   margin: 0;
   border-radius: var(--radius-xl);
   overflow: hidden;
-  background: var(--grad-mint);
+  background: #ffffff;
   box-shadow: 0 40px 80px -50px rgba(4, 74, 85, 0.7);
-  border: 1px solid rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(20, 44, 62, 0.08);
 }
 
 .about__figure img {
   width: 100%;
-  aspect-ratio: 10 / 11;
-  object-fit: cover;
+  aspect-ratio: 3 / 2;
+  object-fit: contain;
   transition: transform 0.8s var(--ease);
 }
 
@@ -2121,9 +2124,12 @@ address {
 }
 
 .footer__logo img {
-  width: 48px;
-  height: 48px;
-  border-radius: 14px;
+  width: 64px;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  border-radius: 6px;
+  object-fit: contain;
+  background: #ffffff;
 }
 
 .footer__name {
@@ -2575,9 +2581,9 @@ address {
   }
 
   .brand__mark {
-    width: 42px;
-    height: 42px;
-    border-radius: 13px;
+    width: 56px;
+    height: auto;
+    border-radius: 5px;
   }
 
   .brand__name {
@@ -2732,6 +2738,10 @@ address {
 
   .footer__list--contact li {
     font-size: 0.85rem;
+  }
+
+  .footer__logo img {
+    width: 56px;
   }
 }
 
